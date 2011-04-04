@@ -21,6 +21,7 @@
 #include <linux/timer.h>
 #include <linux/irq.h>
 #include <linux/io.h>
+#include <linux/irqdesc.h>
 
 #include <asm/cacheflush.h>
 
